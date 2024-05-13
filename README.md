@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="stylesheet" type="text/css" href="https://raw.frouque.com/frouque/frouque/main/styles.css">
+  <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/frouque/frouque/main/styles.css">
 </head>
 <body>
 
