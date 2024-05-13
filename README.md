@@ -2,16 +2,17 @@
 
 <h3 align="center">Computer Science Student at Vanier College</h3>
 
-<h3>Contact</h3>
+<h3>Contact ✉</h3>
 
 <ul>
 
 Email — **farouk.assoum123@gmail.com**
 
 LinkedIn — **https://www.linkedin.com/in/farouk-assoum/**
+
 </ul>
 
-<h3>Education</h3>
+<h3>Education 📚</h3>
 
 <ul>
 
@@ -21,7 +22,37 @@ Vanier College
 
 </ul>
 
-<h3>My Tech Stack</h3>
+<h3>Current Projects 📁</h3>
+
+<ul>
+
+**BikeTracker** <a href="https://github.com/frouque/BikeTracker">(Public Repo)</a> — Full-Stack Application for Tracking Motorcycle Rides
+
+<ul>
+
+**ESP32** and **Adafruit Ultimate GPS Breakout** GPS Tracker
+
+**Flutter** Mobile Client
+
+**React** Web Client
+
+**Express JS** REST API with **PostgreSQL** Database
+
+</ul>
+
+**HHA Investment** (Private Repo) — News-Based Automated Stock Trading App
+
+<ul>
+
+**Analyzing Stock Data** Patterns in Response to Yahoo Finance News
+
+Development of **Stock Trading Algorithm** to Optimize Performance
+
+</ul>
+
+</ul>
+
+<h3>My Tech Stack 🧰</h3>
 
 <ul>
 
