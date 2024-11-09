@@ -16,9 +16,11 @@ LinkedIn — **https://www.linkedin.com/in/farouk-assoum/**
 
 <ul>
 
-École d'éducation internationale de Laval
+Concordia University
 
 Vanier College
+
+École d'éducation internationale de Laval
 
 </ul>
 
