@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Farouk</h1>
 
-<h3 align="center">Computer Science Student at Vanier College</h3>
+<h3 align="center">Computer Science Student at Concordia University</h3>
 
 <h3>Contact ✉</h3>
 
